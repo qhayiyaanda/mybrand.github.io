@@ -36,6 +36,8 @@ USE THE APP
 2 - Select an answer as your vote
 3 - Select "vote again" if you wish to vote again, otherwise - leave the app.
 
+URL for app - http://127.0.0.1:8000/polls/
+
 SCREENSHOTS
 ![Screenshot (48)](https://github.com/qhayiyaanda/mybrand.github.io/assets/141025024/c32a8f8e-143b-49e7-896f-6c59bbc9d44a)
 ![Screenshot (47)](https://github.com/qhayiyaanda/mybrand.github.io/assets/141025024/7169967d-4892-48c0-aab0-0863c2837a90)
